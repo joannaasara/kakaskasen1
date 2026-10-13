@@ -1,0 +1,432 @@
+{
+ "site": {
+  "mapsEmbed": "https://www.google.com/maps?q=Kakaskasen+Satu,+Tomohon+Utara,+Kota+Tomohon&output=embed",
+  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kakaskasen+Satu+Tomohon+Utara+Kota+Tomohon"
+ },
+ "places": [
+  {
+   "id": "kitakami",
+   "name": "Kitakami",
+   "category": "food",
+   "categoryLabel": "Kafe / Nongkrong",
+   "image": "assets/images/place-kitakami.svg",
+   "short": "Kafe bergaya industrial-modern dengan kopi, koktail, dessert, dan hidangan khas.",
+   "address": "Jl. Lingkar Timur, Kakaskasen 1, Tomohon Utara, Kota Tomohon",
+   "mapsQuery": "Kitakami Tomohon",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Kitakami+Tomohon",
+   "facts": [
+    [
+     "Alamat",
+     "Jl. Lingkar Timur, Kakaskasen 1, Tomohon Utara"
+    ],
+    [
+     "Jam buka",
+     "Setiap hari, 11.00–22.00 WITA"
+    ],
+    [
+     "Instagram",
+     "@kitakamitomohon"
+    ],
+    [
+     "Pemilik",
+     "Jovita Esmeralda Kumaat"
+    ],
+    [
+     "Pengunjung",
+     "Ditujukan untuk usia 21 tahun ke atas"
+    ]
+   ],
+   "about": [
+    "Kitakami adalah kafe dan tempat nongkrong bergaya industrial-modern di Kakaskasen 1. Tampilannya memadukan dinding bata ekspos, material logam, dan pencahayaan hangat, sehingga terasa santai sekaligus nyaman untuk berfoto.",
+    "Tempat ini tumbuh dari Warung Bakar-Bakar, usaha kuliner Tomohon yang sudah berjalan sekitar tujuh tahun, lalu dikemas ulang menjadi tempat berkumpul yang lebih berkelas. Pemiliknya berharap Kitakami menjadi daya tarik kuliner bagi pengunjung dari dalam maupun luar daerah."
+   ],
+   "sections": [
+    {
+     "title": "Yang disajikan",
+     "items": [
+      "Kopi",
+      "Koktail",
+      "Dessert",
+      "Hidangan khas (signature)"
+     ]
+    },
+    {
+     "title": "Suasana",
+     "items": [
+      "Industrial-modern",
+      "Dinding bata ekspos",
+      "Pencahayaan hangat",
+      "Cocok untuk berkumpul dan berfoto"
+     ]
+    }
+   ],
+   "note": "Daftar menu dan harga terbaru dapat dilihat di Instagram @kitakamitomohon.",
+   "sources": [
+    {
+     "title": "CitaKawanua — Yuk ke Kitakami",
+     "url": "https://www.citakawanua.com/2025/11/yuk-ke-kitakami-tongkrongan-baru-kelas.html"
+    },
+    {
+     "title": "Manado Live — Cafe Kitakami",
+     "url": "https://www.manadolive.co.id/cafe-kitakami-tempat-nongkrong-yang-elegan-santai-dan-cozy/"
+    },
+    {
+     "title": "Instagram Kitakami",
+     "url": "https://www.instagram.com/kitakamitomohon/"
+    }
+   ],
+   "location": "Jl. Lingkar Timur, Kakaskasen 1, Tomohon Utara, Kota Tomohon",
+   "description": "Kitakami adalah kafe dan tempat nongkrong bergaya industrial-modern di Kakaskasen 1. Tampilannya memadukan dinding bata ekspos, material logam, dan pencahayaan hangat, sehingga terasa santai sekaligus nyaman untuk berfoto.",
+   "detail": "Kitakami adalah kafe dan tempat nongkrong bergaya industrial-modern di Kakaskasen 1. Tampilannya memadukan dinding bata ekspos, material logam, dan pencahayaan hangat, sehingga terasa santai sekaligus nyaman untuk berfoto.",
+   "cover": [
+    "kitakami"
+   ]
+  },
+  {
+   "id": "sliev-coffee-eatery",
+   "name": "Sliev Coffee & Eatery",
+   "category": "food",
+   "categoryLabel": "Kafe / Restoran",
+   "image": "assets/images/place-sliev-coffee-eatery.svg",
+   "short": "Kafe dan restoran dengan kopi, menu Indonesia, Asia, dan Western, buka sampai malam.",
+   "address": "Jl. Raya Manado–Tomohon, Kakaskasen 1, Tomohon Utara, Kota Tomohon",
+   "mapsQuery": "SLIEV Coffee & Eatery Tomohon",
+   "maps": "https://www.google.com/maps/search/?api=1&query=SLIEV+Coffee+&+Eatery+Tomohon",
+   "facts": [
+    [
+     "Alamat",
+     "Jl. Raya Manado–Tomohon, Kakaskasen 1 (Lingkungan 3), Tomohon Utara"
+    ],
+    [
+     "Jam buka",
+     "Sen–Jum 08.00–22.15 · Sabtu 08.00–23.00 · Minggu 08.00–22.30"
+    ],
+    [
+     "Instagram",
+     "@sliev.coffee.eatery"
+    ],
+    [
+     "Rating Google (via Wanderlog)",
+     "4,7 dari 5 (452 ulasan)"
+    ],
+    [
+     "Kisaran harga",
+     "Minuman sekitar Rp20–34 ribu · makanan utama sekitar Rp35–46 ribu"
+    ]
+   ],
+   "about": [
+    "Sliev Coffee & Eatery adalah kafe sekaligus restoran di Jalan Raya Manado–Tomohon, Kakaskasen 1. Menunya luas, mulai dari kopi, minuman signature, hidangan Indonesia dan Manado, sampai menu Asia dan Western.",
+    "Pengunjung dalam ulasan memuji kualitas kopinya, ayam lalapan, dan pisang coklat keju. Tempat ini juga dikenal punya area bar-restoran di lantai atas dengan pemandangan hijau."
+   ],
+   "sections": [
+    {
+     "title": "Kopi & minuman",
+     "items": [
+      "Americano Rp20 rb",
+      "Latte Rp25 rb",
+      "Minuman signature Rp34 rb: Beeren, White Velvet, Coco Delight, Green Lantern, Sunburst, Snowberry, Ahura",
+      "Non-kopi: Matcha, Belgian Chocolate, Okinawa Milk Tea, Korean Banana Milk, Red Velvet, Taro"
+     ]
+    },
+    {
+     "title": "Hidangan utama",
+     "items": [
+      "Ayam Woku Rp37 rb",
+      "Ayam Sambal Matah Rp37 rb",
+      "Ayam Lalapan Rp35 rb",
+      "Chicken Teriyaki Rp37 rb",
+      "Tuna Woku Rp44 rb",
+      "Cakalang Rica-Rica Rp39 rb",
+      "Nasi Campur Rp38 rb",
+      "Beef Rib Curry Rp44 rb"
+     ]
+    },
+    {
+     "title": "Nasi & mi",
+     "items": [
+      "Nasi Goreng Tuna Rp35 rb",
+      "Nasi Goreng Cakalang Rp35 rb",
+      "Nasi Goreng Ayam Rp35 rb",
+      "Mi Goreng Ayam Rp35 rb",
+      "Chicken Sapo Tahu Rp36 rb"
+     ]
+    },
+    {
+     "title": "Western",
+     "items": [
+      "Fish and Chips Rp39 rb",
+      "Tuna Steak Rp46 rb",
+      "Stuffed Chicken Breast Rp46 rb",
+      "Mac and Cheese Rp39 rb",
+      "Spaghetti: Bolognese, Carbonara, Aglio Olio",
+      "Burger"
+     ]
+    },
+    {
+     "title": "Camilan & dessert",
+     "items": [
+      "Pisang goreng dan Goroho Stick",
+      "Tahu krispi dan lumpia homemade",
+      "Tiramisu",
+      "Mille Crepes",
+      "Red Velvet Cheesecake",
+      "Fudgy Brownies"
+     ]
+    }
+   ],
+   "note": "Harga mengacu pada e-menu yang beredar dan dapat berubah. Hubungi lewat Instagram untuk informasi terbaru.",
+   "sources": [
+    {
+     "title": "E-menu SLIEV (AnyFlip)",
+     "url": "https://anyflip.com/jvbyt/cfux/basic"
+    },
+    {
+     "title": "Wanderlog — SLIEV Coffee & Eatery",
+     "url": "https://wanderlog.com/place/details/13152679/sliev-coffee--eatery"
+    },
+    {
+     "title": "Facebook SLIEV",
+     "url": "https://www.facebook.com/SLIEV.Coffee.Eatery/"
+    }
+   ],
+   "location": "Jl. Raya Manado–Tomohon, Kakaskasen 1, Tomohon Utara, Kota Tomohon",
+   "description": "Sliev Coffee & Eatery adalah kafe sekaligus restoran di Jalan Raya Manado–Tomohon, Kakaskasen 1. Menunya luas, mulai dari kopi, minuman signature, hidangan Indonesia dan Manado, sampai menu Asia dan Western.",
+   "detail": "Sliev Coffee & Eatery adalah kafe sekaligus restoran di Jalan Raya Manado–Tomohon, Kakaskasen 1. Menunya luas, mulai dari kopi, minuman signature, hidangan Indonesia dan Manado, sampai menu Asia dan Western.",
+   "cover": [
+    "sliev"
+   ]
+  },
+  {
+   "id": "grand-master-villa",
+   "name": "Grand Master Villa Tomohon",
+   "category": "stay",
+   "categoryLabel": "Penginapan",
+   "image": "assets/images/place-grand-master-villa.svg",
+   "short": "Villa dan resort bintang 3 dengan kolam renang dan pemandangan Gunung Lokon.",
+   "address": "Jl. Lingkar Barat, Kakaskasen Satu, Tomohon Utara, Kota Tomohon 95416",
+   "mapsQuery": "Grand Master Villa Tomohon",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Grand+Master+Villa+Tomohon",
+   "facts": [
+    [
+     "Alamat",
+     "Jl. Lingkar Barat, Kakaskasen Satu, Tomohon Utara 95416"
+    ],
+    [
+     "Kelas",
+     "Bintang 3"
+    ],
+    [
+     "Check-in / check-out",
+     "Mulai 14.00 / sebelum 12.00; resepsionis 24 jam"
+    ],
+    [
+     "Penilaian (Trip.com)",
+     "8,6 dari 10 (18 ulasan terverifikasi)"
+    ],
+    [
+     "Nama lain",
+     "Grand Master Resort Tomohon"
+    ]
+   ],
+   "about": [
+    "Grand Master Villa, juga dikenal sebagai Grand Master Resort Tomohon, adalah penginapan di Kakaskasen Satu. Lokasinya sekitar 0,7 km dari Gunung Lokon, dan Kolam Grand Master berada sangat dekat.",
+    "Cocok untuk keluarga maupun rombongan karena ada kolam renang dewasa dan anak, taman, serta ruang konferensi."
+   ],
+   "sections": [
+    {
+     "title": "Tipe kamar",
+     "items": [
+      "Deluxe Twin (2 tempat tidur single)",
+      "Deluxe King (1 tempat tidur king)",
+      "Queen Room"
+     ]
+    },
+    {
+     "title": "Fasilitas",
+     "items": [
+      "Kolam renang luar ruang dan kolam anak",
+      "Parkir pribadi gratis",
+      "Ruang konferensi (biaya tambahan)",
+      "Layanan kamar, taman, wake-up call",
+      "Laundry dan setrika",
+      "CCTV dan petugas keamanan",
+      "Wi-Fi dan AC"
+     ]
+    }
+   ],
+   "note": "Tidak tersedia restoran di lokasi. Harga kamar berubah-ubah; cek di aplikasi pemesanan.",
+   "sources": [
+    {
+     "title": "Trip.com — Grand Master Villa Tomohon",
+     "url": "https://us.trip.com/hotels/kakaskasen-satu-hotel-detail-48636039/grand-master-resort-tomohon/"
+    },
+    {
+     "title": "ID Alamat — Grand Master Resort",
+     "url": "https://idalamat.com/alamat/192843/grand-master-resort-tomohon-tomohon-sulawesi-utara"
+    }
+   ],
+   "location": "Jl. Lingkar Barat, Kakaskasen Satu, Tomohon Utara, Kota Tomohon 95416",
+   "description": "Grand Master Villa, juga dikenal sebagai Grand Master Resort Tomohon, adalah penginapan di Kakaskasen Satu. Lokasinya sekitar 0,7 km dari Gunung Lokon, dan Kolam Grand Master berada sangat dekat.",
+   "detail": "Grand Master Villa, juga dikenal sebagai Grand Master Resort Tomohon, adalah penginapan di Kakaskasen Satu. Lokasinya sekitar 0,7 km dari Gunung Lokon, dan Kolam Grand Master berada sangat dekat.",
+   "cover": [
+    "grand-master",
+    "grandmaster"
+   ]
+  },
+  {
+   "id": "gereja-1000-salib",
+   "name": "Gereja 1000 Salib St. Fransiskus Xaverius",
+   "category": "landmark",
+   "categoryLabel": "Landmark",
+   "image": "assets/images/place-gereja-1000-salib.svg",
+   "short": "Gereja Katolik Paroki St. Fransiskus Xaverius, dikenal sebagai Gereja Seribu Salib.",
+   "address": "Kakaskasen Satu, Tomohon Utara, Kota Tomohon (Plus Code 9R3M+967)",
+   "mapsQuery": "Gereja Katolik St Fransiskus Xaverius Kakaskasen Tomohon",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Gereja+Katolik+St+Fransiskus+Xaverius+Kakaskasen+Tomohon",
+   "facts": [
+    [
+     "Nama resmi",
+     "Gereja Katolik Paroki Santo Fransiskus Xaverius, Tomohon–Kakaskasen"
+    ],
+    [
+     "Alamat",
+     "Kakaskasen Satu, Tomohon Utara"
+    ],
+    [
+     "Plus Code",
+     "9R3M+967"
+    ],
+    [
+     "Keuskupan",
+     "Keuskupan Manado, dekenat Tomohon"
+    ],
+    [
+     "Jam kunjungan",
+     "Belum ada informasi resmi; hubungi pengurus paroki"
+    ]
+   ],
+   "about": [
+    "Gereja Katolik St. Fransiskus Xaverius di Kakaskasen Satu dikenal luas sebagai Gereja Seribu Salib dan menjadi salah satu penanda kawasan Kakaskasen.",
+    "Di dekatnya ada Seminari Fransiskus Xaverius Kakaskasen, dan lokasinya tidak jauh dari Gunung Lokon."
+   ],
+   "sections": [],
+   "note": "Jam kunjungan dan sejarah gereja dapat ditanyakan ke pengurus paroki.",
+   "sources": [
+    {
+     "title": "Trip.com — Gereja Katolik St. Fransiskus Xaverius Kakaskasen",
+     "url": "https://www.trip.com/travel-guide/attraction/north-tomohon/gereja-katolik-st-fransiskus-xaverius-kakaskasen-141470703/"
+    },
+    {
+     "title": "GCatholic — Seminari Fransiskus Xaverius Kakaskasen",
+     "url": "https://gcatholic.org/churches/asia-east/150562"
+    }
+   ],
+   "location": "Kakaskasen Satu, Tomohon Utara, Kota Tomohon (Plus Code 9R3M+967)",
+   "description": "Gereja Katolik St. Fransiskus Xaverius di Kakaskasen Satu dikenal luas sebagai Gereja Seribu Salib dan menjadi salah satu penanda kawasan Kakaskasen.",
+   "detail": "Gereja Katolik St. Fransiskus Xaverius di Kakaskasen Satu dikenal luas sebagai Gereja Seribu Salib dan menjadi salah satu penanda kawasan Kakaskasen.",
+   "cover": [
+    "gereja"
+   ]
+  },
+  {
+   "id": "lokon-mega-mendung",
+   "name": "Lokon Mega Mendung",
+   "category": "stay",
+   "categoryLabel": "Penginapan",
+   "image": "assets/images/place-lokon-mega-mendung.svg",
+   "short": "Penginapan di kaki Gunung Lokon, kawasan Kakaskasen.",
+   "address": "Jl. Lokon, Dsn. IV, Tomohon 95362",
+   "mapsQuery": "Lokon Mega Mendung Tomohon",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Lokon+Mega+Mendung+Tomohon",
+   "facts": [
+    [
+     "Alamat",
+     "Jl. Lokon, Dsn. IV, Tomohon 95362"
+    ],
+    [
+     "Kategori",
+     "Hotel / penginapan"
+    ],
+    [
+     "Koordinat",
+     "1,35416 · 124,83017"
+    ]
+   ],
+   "about": [
+    "Lokon Mega Mendung adalah penginapan di kawasan Kakaskasen, Tomohon, dekat jalan menuju Gunung Lokon."
+   ],
+   "sections": [],
+   "note": "Informasi fasilitas, harga, dan kontak belum tersedia. Hubungi pengelola untuk detailnya.",
+   "sources": [
+    {
+     "title": "Infoisinfo — Lokon Mega Mendung",
+     "url": "https://minahasa.infoisinfo.co.id/kartu/lokon-mega-mendung/111124"
+    },
+    {
+     "title": "Top10Place — Lokon Mega Mendung",
+     "url": "https://id.top10place.com/lokon-mega-mendung-653743805.html"
+    }
+   ],
+   "location": "Jl. Lokon, Dsn. IV, Tomohon 95362",
+   "description": "Lokon Mega Mendung adalah penginapan di kawasan Kakaskasen, Tomohon, dekat jalan menuju Gunung Lokon.",
+   "detail": "Lokon Mega Mendung adalah penginapan di kawasan Kakaskasen, Tomohon, dekat jalan menuju Gunung Lokon.",
+   "cover": [
+    "lokon"
+   ]
+  },
+  {
+   "id": "krysan-souvenir",
+   "name": "Krysan Souvenir",
+   "category": "local",
+   "categoryLabel": "Oleh-oleh",
+   "image": "assets/images/place-krysan.svg",
+   "short": "Pusat oleh-oleh dan produk UMKM khas Tomohon dan Sulawesi Utara.",
+   "address": "Jalan Raya, Kakaskasen Dua, Tomohon Utara (menurut pemberitaan 2022)",
+   "mapsQuery": "Krysan Souvenir Tomohon",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Krysan+Souvenir+Tomohon",
+   "facts": [
+    [
+     "Alamat",
+     "Jalan Raya, Tomohon Utara"
+    ],
+    [
+     "Pengelola",
+     "Karen Senduk"
+    ],
+    [
+     "Dibuka",
+     "September 2022"
+    ]
+   ],
+   "about": [
+    "Krysan adalah pusat oleh-oleh yang menjual produk UMKM dan kerajinan khas Tomohon dan Sulawesi Utara.",
+    "Barang yang dijual meliputi makanan dan minuman khas, obat tradisional, kaos, kain batik, dan kerajinan tangan. Tersedia juga pojok kopi dengan kopi hitam, kopi susu, dan kopi gula aren."
+   ],
+   "sections": [
+    {
+     "title": "Yang dijual",
+     "items": [
+      "Makanan dan minuman khas",
+      "Obat tradisional",
+      "Kaos dan kain batik",
+      "Kerajinan tangan",
+      "Pojok kopi"
+     ]
+    }
+   ],
+   "note": "Jam buka belum tersedia; cek langsung ke tempatnya.",
+   "sources": [
+    {
+     "title": "Identitas News — Tomohon punya tempat menjual produk UMKM",
+     "url": "https://www.identitasnews.id/tomohon-kini-punya-tempat-menjual-produk-produk-umkm-dan-kerajinan-khas-tomohon/"
+    }
+   ],
+   "location": "Jalan Raya, Kakaskasen Dua, Tomohon Utara (menurut pemberitaan 2022)",
+   "description": "Krysan adalah pusat oleh-oleh yang menjual produk UMKM dan kerajinan khas Tomohon dan Sulawesi Utara.",
+   "detail": "Krysan adalah pusat oleh-oleh yang menjual produk UMKM dan kerajinan khas Tomohon dan Sulawesi Utara.",
+   "cover": [
+    "krysan"
+   ]
+  }
+ ]
+}

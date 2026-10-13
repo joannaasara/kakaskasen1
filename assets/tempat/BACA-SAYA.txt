@@ -1,0 +1,12 @@
+Taruh foto cover tempat di folder ini. Nama file menentukan tempatnya (huruf kecil, ekstensi jpg/jpeg/png/webp):
+
+  kitakami.jpg        -> Kitakami
+  sliev.jpg           -> Sliev Coffee & Eatery
+  grand-master.jpg    -> Grand Master Villa  (grandmaster.jpg juga bisa)
+  lokon.jpg           -> Lokon Mega Mendung
+  krysan.jpg          -> Krysan Souvenir
+  gereja.jpg          -> Gereja 1000 Salib
+  gunung-lokon.jpg    -> foto Gunung Lokon di bagian Ikon Kakaskasen
+  kantor.jpg          -> Kantor Kelurahan
+
+Tidak perlu mengubah kode. Kalau file belum ada, tampil gambar placeholder.
