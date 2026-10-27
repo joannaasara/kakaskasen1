@@ -1,8 +1,9 @@
-:root{
+:root{@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
   --green-900:#0f2b21;--green-800:#14382b;--green-700:#1f5a41;--green-600:#2f6b4f;--green-100:#e3ece5;
   --cream:#f7f3ea;--paper:#fffdf8;--ink:#1d2a24;--muted:#5c6b63;--amber:#e0b252;--amber-d:#9a6f17;
   --line:rgba(20,56,43,.14);--r:20px;--shadow:0 18px 50px -24px rgba(15,43,33,.45);
-  --serif:'Fraunces',Georgia,serif;--sans:'Inter',system-ui,sans-serif;--nav:72px;
+  --serif:'Fraunces',Georgia,serif;--sans:'Plus Jakarta Sans',system-ui,sans-serif;--nav:72px;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:calc(var(--nav) + 12px)}
@@ -233,3 +234,12 @@ footer{background:var(--green-900);color:#b9cbc1;padding:56px 0 28px}
 /* logo kota tomohon di header & footer */
 .brand-logo{width:44px;height:44px;object-fit:contain;flex:none;filter:drop-shadow(0 1px 3px rgba(0,0,0,.35))}
 .nav.solid .brand-logo{filter:none}
+
+/* Deskripsi tidak huruf kapital */
+p,li,dd,.place-b p,.panel-b p{text-transform:none;letter-spacing:0}
+
+body,
+body *:not(i):not([class*="fa-"]):not(h1):not(h2):not(h3){
+  font-family:'Plus Jakarta Sans',system-ui,sans-serif !important;
+}
+p,li,dd{text-transform:none !important;letter-spacing:0 !important}
